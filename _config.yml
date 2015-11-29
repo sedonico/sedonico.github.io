@@ -8,7 +8,7 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : sedoni.co
 tagline: Site Tagline
 author :
   name : sedonico
@@ -102,9 +102,9 @@ JB :
   analytics :
     provider : google
     gauges :
-        site_id : 'SITE ID'
+        site_id : 'sedoni.co'
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-57117543-1'
     getclicky :
       site_id : 
     mixpanel :
