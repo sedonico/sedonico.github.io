@@ -19,7 +19,7 @@ In `_config.yml` remember to specify your own data:
       name : sedonico
       email : sedonico@outlook.com
       github : sedonico
-      twitter : sedonico
+      twitter : Sedo_Nico
 
 The theme should reference these variables whenever needed.
     
